@@ -28,6 +28,10 @@ class App extends Component {
     // }
   }
 
+  onSearchChange = (event) => {
+    this.setState({searchfield: event.target.value})
+  }
+
   render() {
     const filtredHumans = this.state.humans.filter(human => {
       return human.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
