@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/human-friends/static/css/main.c4d0fee8.chunk.css",
-    "main.js": "/human-friends/static/js/main.80228fca.chunk.js",
-    "main.js.map": "/human-friends/static/js/main.80228fca.chunk.js.map",
+    "main.css": "/human-friends/static/css/main.943272d6.chunk.css",
+    "main.js": "/human-friends/static/js/main.879f391c.chunk.js",
+    "main.js.map": "/human-friends/static/js/main.879f391c.chunk.js.map",
     "runtime-main.js": "/human-friends/static/js/runtime-main.40047e69.js",
     "runtime-main.js.map": "/human-friends/static/js/runtime-main.40047e69.js.map",
     "static/css/2.6d7c7915.chunk.css": "/human-friends/static/css/2.6d7c7915.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.fdc1b9be.chunk.js.map": "/human-friends/static/js/3.fdc1b9be.chunk.js.map",
     "index.html": "/human-friends/index.html",
     "static/css/2.6d7c7915.chunk.css.map": "/human-friends/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.c4d0fee8.chunk.css.map": "/human-friends/static/css/main.c4d0fee8.chunk.css.map",
+    "static/css/main.943272d6.chunk.css.map": "/human-friends/static/css/main.943272d6.chunk.css.map",
     "static/js/2.67cc18c7.chunk.js.LICENSE.txt": "/human-friends/static/js/2.67cc18c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40047e69.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.67cc18c7.chunk.js",
-    "static/css/main.c4d0fee8.chunk.css",
-    "static/js/main.80228fca.chunk.js"
+    "static/css/main.943272d6.chunk.css",
+    "static/js/main.879f391c.chunk.js"
   ]
 }
